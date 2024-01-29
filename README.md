@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kamuik16"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Krishang+Shah" alt="Krishang Shah" /></a>
+  <a href="https://github.com/kamuikatsurgi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Krishang+Shah" alt="Krishang Shah" /></a>
 </p>
 
 <!-- Social icons section -->
