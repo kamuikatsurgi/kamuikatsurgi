@@ -8,3 +8,8 @@
   <a href="https://twitter.com/krishang_shah16"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+Check out my other GitHub account:
+<a href="https://github.com/kamuik16" style="display: inline-block; vertical-align: middle;">
+<img style="border-radius: 50%;" width="32px" alt="GitHub" title="Alt GitHub Account" src="https://avatars.githubusercontent.com/u/93703995?v=4"/>
+</a>
