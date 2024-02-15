@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm Krishang!</h1>
+<h1 align="center">Hey 👋, I'm Krishang!</h1>
 
 <!-- Social icons section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/krishang-shah/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/krishang_shah16"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div align="center">
+<a href="https://github.com/kamuikatsurgi"><img src="./assets/logo-social-github.png" width="4%" alt="Main GitHub"></a>
+<img src="./assets/logo-transparent.png" width="3%" alt="space">
+<a href="https://www.linkedin.com/in/krishang-shah/"><img src="./assets/logo-social-linkedin.png" width="4%" alt="LinkedIn"></a>
+<img src="./assets/logo-transparent.png" width="3%" alt="space">
+<a href="https://twitter.com/krishang_shah16"><img src="./assets/logo-social-twitter.png" width="4%" alt="Twitter"></a>
+</div>
