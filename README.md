@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Krishang!</h1>
+<h1 align="center">Hey, I'm Krishang 👋</h1>
 
 <!-- Social icons section -->
 <div align="center">
