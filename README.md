@@ -6,5 +6,5 @@
 <img src="./assets/logo-transparent.png" width="3%" alt="space">
 <a href="https://www.linkedin.com/in/krishang-shah/"><img src="./assets/logo-social-linkedin.png" width="4%" alt="LinkedIn"></a>
 <img src="./assets/logo-transparent.png" width="3%" alt="space">
-<a href="https://twitter.com/krishang_shah16"><img src="./assets/logo-social-twitter.png" width="4%" alt="Twitter"></a>
+<a href="https://twitter.com/0xkrishang"><img src="./assets/logo-social-twitter.png" width="4%" alt="Twitter"></a>
 </div>
